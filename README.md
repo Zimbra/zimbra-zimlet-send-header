@@ -2,7 +2,7 @@
 
 This is an example Zimlet that shows how to send emails with additional headers. This Zimlet uses Redux to store a variable that keeps track of whether or not the user has clicked a menu item.
 
-Based on this variable the extra headers will be added to the email by using the SendCustomHeaderMessage component which is added in Zimbra 10.0.9 and the Zimlet event ONSEND.
+Based on this variable the extra headers will be added to the email by using the ***SendCustomHeaderMessage*** component which is added in Zimbra 10.0.9 and the Zimlet event ONSEND.
 
 For more information about Zimlet events go to: https://github.com/Zimbra/zimlet-cli/wiki/Capture-Zimbra-events-inside-a-Zimlet
 
@@ -19,4 +19,4 @@ After loading the Zimlet in Sideloader you can find it here:
 
 ![](screenshots/menu.png)
 
-Inspect the code in the example Zimlet to understand the inner workings of Redux and the SendCustomHeaderMessage component.
+Inspect the code in the example Zimlet to understand the inner workings of Redux and the ***SendCustomHeaderMessage*** component.
