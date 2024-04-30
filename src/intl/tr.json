@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Mesaj gönderilemedi.",
+    "sentWithHeader": "Özel başlıkla gönderilen mesaj."
+  },
+  "zimlet": {
+    "description": "Özel başlıklarla posta göndermek için Zimlet"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "メッセージを送信できませんでした。",
+    "sentWithHeader": "カスタム ヘッダー付きでメッセージが送信されました。"
+  },
+  "zimlet": {
+    "description": "カスタムヘッダー付きのメールを送信するための Zimlet"
+  }
+}

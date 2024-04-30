@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Slanje poruke nije uspjelo.",
+    "sentWithHeader": "Poruka poslana s prilagođenim zaglavljem."
+  },
+  "zimlet": {
+    "description": "Zimlet za slanje pošte s prilagođenim zaglavljima"
+  }
+}

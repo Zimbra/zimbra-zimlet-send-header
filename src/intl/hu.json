@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Nem sikerült elküldeni az üzenetet.",
+    "sentWithHeader": "Üzenet egyéni fejléccel elküldve."
+  },
+  "zimlet": {
+    "description": "Zimlet egyedi fejlécekkel történő levélküldéshez"
+  }
+}

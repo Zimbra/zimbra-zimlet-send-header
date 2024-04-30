@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Не вдалося надіслати повідомлення.",
+    "sentWithHeader": "Повідомлення надіслано зі спеціальним заголовком."
+  },
+  "zimlet": {
+    "description": "Zimlet для надсилання пошти з власними заголовками"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Beskeden kunne ikke sendes.",
+    "sentWithHeader": "Besked sendt med tilpasset overskrift."
+  },
+  "zimlet": {
+    "description": "Zimlet til afsendelse af mail med tilpassede overskrifter"
+  }
+}

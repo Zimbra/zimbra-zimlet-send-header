@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Odeslání zprávy se nezdařilo.",
+    "sentWithHeader": "Zpráva byla odeslána s vlastní hlavičkou."
+  },
+  "zimlet": {
+    "description": "Zimlet pro odesílání pošty s vlastními hlavičkami"
+  }
+}

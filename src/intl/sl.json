@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Sporočila ni bilo mogoče poslati.",
+    "sentWithHeader": "Sporočilo je bilo poslano z naslovom po meri."
+  },
+  "zimlet": {
+    "description": "Zimlet za pošiljanje pošte z naslovi po meri"
+  }
+}

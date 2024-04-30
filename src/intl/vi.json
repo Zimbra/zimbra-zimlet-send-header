@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Tin nhắn không gửi được.",
+    "sentWithHeader": "Tin nhắn được gửi với tiêu đề tùy chỉnh."
+  },
+  "zimlet": {
+    "description": "Zimlet để gửi thư với tiêu đề tùy chỉnh"
+  }
+}

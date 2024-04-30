@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Impossibile inviare il messaggio.",
+    "sentWithHeader": "Messaggio inviato con intestazione personalizzata."
+  },
+  "zimlet": {
+    "description": "Zimlet per inviare posta con intestazioni personalizzate"
+  }
+}

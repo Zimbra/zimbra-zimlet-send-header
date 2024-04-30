@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Mesajul nu a putut fi trimis.",
+    "sentWithHeader": "Mesaj trimis cu antet personalizat."
+  },
+  "zimlet": {
+    "description": "Zimlet pentru trimiterea de e-mailuri cu anteturi personalizate"
+  }
+}

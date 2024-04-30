@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "संदेश भेजने में असफल रहा.",
+    "sentWithHeader": "संदेश कस्टम हेडर के साथ भेजा गया."
+  },
+  "zimlet": {
+    "description": "कस्टम हेडर के साथ मेल भेजने के लिए ज़िमलेट"
+  }
+}

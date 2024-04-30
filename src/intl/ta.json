@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "செய்தியை அனுப்ப முடியவில்லை.",
+    "sentWithHeader": "தனிப்பயன் தலைப்புடன் செய்தி அனுப்பப்பட்டது."
+  },
+  "zimlet": {
+    "description": "தனிப்பயன் தலைப்புகளுடன் அஞ்சல் அனுப்புவதற்கான Zimlet"
+  }
+}

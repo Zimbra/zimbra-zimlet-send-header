@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "ສົ່ງຂໍ້ຄວາມບໍ່ສຳເລັດ.",
+    "sentWithHeader": "ຂໍ້ຄວາມທີ່ຖືກສົ່ງໄປດ້ວຍສ່ວນຫົວແບບກຳນົດເອງ."
+  },
+  "zimlet": {
+    "description": "Zimlet ສໍາລັບການສົ່ງອີເມວທີ່ມີສ່ວນຫົວທີ່ກໍາຫນົດເອງ"
+  }
+}

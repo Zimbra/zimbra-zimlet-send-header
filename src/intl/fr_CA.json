@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Le message n'a pas pu être envoyé.",
+    "sentWithHeader": "Message envoyé avec en-tête personnalisé."
+  },
+  "zimlet": {
+    "description": "Zimlet pour envoyer du courrier avec des en-têtes personnalisés"
+  }
+}

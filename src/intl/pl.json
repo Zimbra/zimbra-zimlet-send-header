@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Nie udało się wysłać wiadomości.",
+    "sentWithHeader": "Wiadomość wysłana z niestandardowym nagłówkiem."
+  },
+  "zimlet": {
+    "description": "Zimlet do wysyłania poczty z niestandardowymi nagłówkami"
+  }
+}

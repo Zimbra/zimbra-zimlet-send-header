@@ -1,0 +1,11 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "The message failed to send.",
+    "sentWithHeader": "Message sent with custom header."
+  },
+  "zimlet": {
+    "description": "Zimlet for sending mail with custom headers",
+    "label": "CustomHeader Zimlet"
+  }
+}

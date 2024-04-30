@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Mesej gagal dihantar.",
+    "sentWithHeader": "Mesej dihantar dengan pengepala tersuai."
+  },
+  "zimlet": {
+    "description": "Zimlet untuk menghantar mel dengan pengepala tersuai"
+  }
+}

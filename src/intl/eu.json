@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Ezin izan da bidali mezua.",
+    "sentWithHeader": "Mezua goiburu pertsonalizatuarekin bidali da."
+  },
+  "zimlet": {
+    "description": "Zimlet goiburu pertsonalizatuekin posta bidaltzeko"
+  }
+}

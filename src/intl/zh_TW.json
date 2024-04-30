@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "訊息發送失敗。",
+    "sentWithHeader": "使用自訂標頭發送的訊息。"
+  },
+  "zimlet": {
+    "description": "Zimlet 用於發送帶有自訂標頭的郵件"
+  }
+}

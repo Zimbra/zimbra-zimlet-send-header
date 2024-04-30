@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "فشل إرسال الرسالة.",
+    "sentWithHeader": "تم إرسال الرسالة برأس مخصص."
+  },
+  "zimlet": {
+    "description": "Zimlet لإرسال البريد برؤوس مخصصة"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "메시지를 보내지 못했습니다.",
+    "sentWithHeader": "맞춤 헤더와 함께 전송된 메시지입니다."
+  },
+  "zimlet": {
+    "description": "사용자 정의 헤더로 메일을 보내는 Zimlet"
+  }
+}

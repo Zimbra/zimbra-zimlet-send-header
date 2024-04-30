@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Das Senden der Nachricht ist fehlgeschlagen.",
+    "sentWithHeader": "Nachricht mit benutzerdefiniertem Header gesendet."
+  },
+  "zimlet": {
+    "description": "Zimlet zum Senden von E-Mails mit benutzerdefinierten Headern"
+  }
+}

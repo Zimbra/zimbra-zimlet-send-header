@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Het bericht kon niet worden verzonden.",
+    "sentWithHeader": "Bericht verzonden met aangepaste koptekst."
+  },
+  "zimlet": {
+    "description": "Zimlet voor het verzenden van e-mail met aangepaste headers"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "Det gick inte att skicka meddelandet.",
+    "sentWithHeader": "Meddelande skickat med anpassad rubrik."
+  },
+  "zimlet": {
+    "description": "Zimlet för att skicka e-post med anpassade rubriker"
+  }
+}

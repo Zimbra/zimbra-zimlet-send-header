@@ -1,0 +1,10 @@
+{
+  "sendHeader": {
+    "menu": "Send Header Zimlet",
+    "sendFail": "A mensagem não foi enviada.",
+    "sentWithHeader": "Mensagem enviada com cabeçalho personalizado."
+  },
+  "zimlet": {
+    "description": "Zimlet para enviar e-mails com cabeçalhos personalizados"
+  }
+}
