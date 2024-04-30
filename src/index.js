@@ -31,5 +31,10 @@ export default function Zimlet(context) {
 		context.zimletRedux.addSelectors(reduxNamespace, selectors);
 	};
 
+	exports.destroy = function destroy() {
+		context.zimletRedux.removeActions(reduxNamespace);
+		context.zimletRedux.removeSelectors(reduxNamespace);
+	};
+
 	return exports;
 }
